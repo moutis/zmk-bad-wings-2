@@ -7,7 +7,7 @@ config BOARD
     default "bw2"
 
 config ZMK_KEYBOARD_NAME
-    default "Bad Wings v2"
+    default "BW2 Vibranium"
 
 config ZMK_USB
     default y
